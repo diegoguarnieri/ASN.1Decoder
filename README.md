@@ -20,8 +20,9 @@ To install this project, you can 'git clone' and import to your prefered Java ID
 # Future
 
 Some improvements are necessary
--Full ASN.1 schema parser
--Decode files encoded in Base64 format
--Validate ASN.1 rules
+
+Full ASN.1 schema parser
+Decode files encoded in Base64 format
+Validate ASN.1 rules
 
 
