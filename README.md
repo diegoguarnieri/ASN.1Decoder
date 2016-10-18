@@ -12,17 +12,21 @@ Please see [wikipedia](https://en.wikipedia.org/wiki/Abstract_Syntax_Notation_On
 ASN.1Decoder is able to decode files in [BER, CER and DER formats](https://en.wikipedia.org/wiki/X.690) to ASCII. If a ASN.1 schema is present, ASN.1Decoder can join the files decoded and the fields in ASN.1 schema.
 
 
+# Languages
+
+This project is available in Java ang Go
+
+
 # Installation
 
-To install this project, you can 'git clone' and import to your prefered Java IDE.
+To install this project, you can 'git clone' and import to your prefered IDE.
 
 
 # Future
 
 Some improvements are necessary
 
-Full ASN.1 schema parser
-Decode files encoded in Base64 format
-Validate ASN.1 rules
-
+- Full ASN.1 schema parser
+- Decode files encoded in Base64 format
+- Validate ASN.1 rules
 
